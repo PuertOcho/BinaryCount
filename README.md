@@ -1,6 +1,6 @@
 # BinaryCount
 
-En este proyecto se conectan dos LED a los puertos GPIO PA6 y PA7 de la placa Nucleo-L476RG. Los LED parpadean alternativamente cada 500 ms. El objetivo de este proyecto es mostrar cómo se pueden conectar componentes externos (por ejemplo, LED) a la placa Nucleo-L476RG
+Con este proyecto podemos visualizatr el incremento progresivo de 1 Byte con una representacion visual en LEDs. El incremento de produce cada 50 ms.
 
 Diagrama de bloques del proyecto:
  
