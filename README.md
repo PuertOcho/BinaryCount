@@ -8,6 +8,4 @@ Diagrama de bloques del proyecto:
 
 ## Video test
 
-https://github.com/PuertOcho/MovingLEDs/assets/57835621/1b49c35e-85f1-4649-922d-71d558054e44
-
-
+https://github.com/PuertOcho/BinaryCount/assets/57835621/8ac3e5dc-8f83-41b9-af3b-c5b9a6017101
