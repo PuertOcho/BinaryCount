@@ -1,6 +1,6 @@
 # BinaryCount
 
-Con este proyecto podemos visualizatr el incremento progresivo de 1 Byte con una representacion visual en LEDs. El incremento de produce cada 50 ms.
+Con este proyecto podemos visualizar el incremento progresivo bit a bit de 1 Byte representandose visualmente con LEDs. El incremento de produce cada 50 ms.
 
 ## Video test
 
